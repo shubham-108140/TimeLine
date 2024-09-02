@@ -8,6 +8,9 @@ This repository contains the solution for the Frontend Development task provided
 
 
 ## Project Details
+## Live Demo
+* **Deployed:** Using Netlify:
+* **Preview:** https://66d59e922d0c7b1729881a1f--ig-drone-timeline.netlify.app/
 
 ## Features:
 * **Responsive Design:** The timeline adapts to various screen sizes and devices.
@@ -23,9 +26,7 @@ This repository contains the solution for the Frontend Development task provided
 * **HTML:** Markup for the structure of the timeline.
 * **CSS:** (TailWind CSS) Styling and layout, including responsive design
 * **JavaScript:** Handling animations and interactions
-## Live Demo
-* **Deployed:** Using Netlify:
-* **Preview:** https://66d59e922d0c7b1729881a1f--ig-drone-timeline.netlify.app/
+
 ## Feedback and Contact
 If you have any feedback or need further clarification, please feel free to reach out.
 
